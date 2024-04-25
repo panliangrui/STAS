@@ -62,6 +62,8 @@
 ### 特征提取
 
 基于KimiaNet和CTransPath提取特征。
+KimiaNet请参考：https://github.com/KimiaLabMayo/KimiaNet
+CTransPath请参考：https://github.com/Xiyue-Wang/TransPath
 ```markdown
 python new_cut7.py
 ```
