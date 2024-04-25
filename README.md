@@ -61,6 +61,8 @@ Use the pre-trained model for feature preprocessing and build the spatial topolo
 ### Feature Extraction
 
 Features extracted based on KimiaNet and CTransPath.
+Please refer to KimiaNet: https://github.com/KimiaLabMayo/KimiaNet.
+Please refer to CTransPath: https://github.com/Xiyue-Wang/TransPath
 ```markdown
 python new_cut7.py
 ```
