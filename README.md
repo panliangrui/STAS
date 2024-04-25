@@ -96,11 +96,14 @@ train_feature1.py
 
 ## Datastes
 
-As the data has a privacy protection agreement, only relevant data characteristics are provided.
+- Only features of the histopathology image data are provided as the data has a privacy protection agreement.
 ```markdown
   链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
 ```
-
+- We provide clinical data on STAS patients, including patient age, gender, stage and protein level expression data.
+```markdown
+  链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
+```
 ## Website
 
 We welcome you to visit our STAS test platform at http://plr.20210706.xyz:5000/.
