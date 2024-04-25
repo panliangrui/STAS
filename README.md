@@ -110,5 +110,4 @@ We welcome you to visit our STAS test platform at http://plr.20210706.xyz:5000/.
 
 ## License
 
-If your README conforms to the yakia, you can add a badge to link back to this
-specification to help others adopt this readme.
+[License MIT](../LICENSE)
