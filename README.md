@@ -6,10 +6,10 @@ Siamese graph encoder-based image analysis to predict STAS from histopathology i
     <img src="https://github.com/panliangrui/STAS/blob/main/STAS%20prediction.png" width="600" height="200" />
   </a>
 
-  <h1>Yakia</h1>
+  <h1>STAS</h1>
 
   <p>
-  Yakia is a developer helper.
+  Liangrui Pan et al. is a developer helper.
   </p>
 
   <p>
