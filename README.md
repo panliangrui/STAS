@@ -93,20 +93,21 @@ python construct_graph1.py
   ```markdown
   链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
   ```
-- README must-have instructions
+- Test the model to obtain predictions.
   ```markdown
   python test_stas.py
   ```
 
 ## Datastes
 
-If your README conforms to the yakia, you can add a badge to link back to this
-specification to help others adopt this readme.
+As the data has a privacy protection agreement, only relevant data characteristics are provided.
+```markdown
+  链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
+```
 
 ## Website
 
-If your README conforms to the yakia, you can add a badge to link back to this
-specification to help others adopt this readme.
+We welcome you to visit our test platform at http://plr.20210706.xyz:5000/.
 
 ## License
 
