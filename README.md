@@ -35,8 +35,8 @@
   </div>
 </div>
 
-# STAS
-Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer
+# Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer
+
 ## Table of Contents
 
 <details>
@@ -64,12 +64,17 @@ Siamese graph encoder-based image analysis to predict STAS from histopathology i
 
 ## Feature Preprocessing
 
-This project is a Github sample warehouse template, the main content is the
-sample template of README file.
+Use the pre-trained model for feature preprocessing and build the spatial topology of WSI.
 
 ### Feature Preprocessing
 
-[Website Link](https://yakia.misitebao.com)
+Features extracted based on KimiaNet and CTransPath.
+```markdown
+python new_cut7.py
+```
+```markdown
+python new_cut7-1.py
+```
 
 ### Graph Construction
 
