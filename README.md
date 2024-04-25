@@ -76,13 +76,9 @@ python construct_graph1.py
 ```
 
 ## Train Models
-
-- The project logo and corresponding data are displayed in the center
-- Provide multi-language functions and sample templates
-- README must-have instructions
-- Built-in directory navigation function to solve the problem that some Markdown
-  parsing engines cannot parse navigation correctly
-  
+```markdown
+train_feature1.py
+```
 ## Test Models
 
 - Best model for five-fold cross validation
@@ -107,7 +103,7 @@ As the data has a privacy protection agreement, only relevant data characteristi
 
 ## Website
 
-We welcome you to visit our test platform at http://plr.20210706.xyz:5000/.
+We welcome you to visit our STAS test platform at http://plr.20210706.xyz:5000/.
 
 ## License
 
