@@ -102,9 +102,7 @@ train_feature1.py
   链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
 ```
 - 我们提供 STAS 患者的临床数据，包括患者年龄、性别、分期和蛋白水平表达数据。
-```markdown
-  链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
-```
+请发邮件联系通讯作者或者第一作者。
 ## 网站
 
 欢迎您访问我们的STAS测试平台：http://plr.20210706.xyz:5000/。
