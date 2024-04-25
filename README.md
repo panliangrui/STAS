@@ -1,5 +1,4 @@
-# STAS
-Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer
+
 
 <div align="center">
   <a href="(https://github.com/panliangrui/STAS/blob/main/STAS%20prediction.png)">
@@ -36,15 +35,17 @@ Siamese graph encoder-based image analysis to predict STAS from histopathology i
   </div>
 </div>
 
+# STAS
+Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer
 ## Table of Contents
 
 <details>
   <summary>Click me to Open/Close the directory listing</summary>
 
 - [Table of Contents](#table-of-contents)
-- [Introductions](#introductions)
-  - [Official Website](#official-website)
-  - [Background](#background)
+- [Feature Preprocessing](#Feature Preprocessing)
+  - [Feature Extraction](#Feature Extraction)
+  - [Graph Construction](#Graph Construction)
 - [Graphic Demo](#graphic-demo)
 - [Features](#features)
 - [Architecture](#architecture)
@@ -61,16 +62,16 @@ Siamese graph encoder-based image analysis to predict STAS from histopathology i
 
 </details>
 
-## Introductions
+## Feature Preprocessing
 
 This project is a Github sample warehouse template, the main content is the
 sample template of README file.
 
-### Official Website
+### Feature Preprocessing
 
 [Website Link](https://yakia.misitebao.com)
 
-### Background
+### Graph Construction
 
 When searching for the required tools and libraries in the open source
 community, I found that there are many excellent code libraries, but there is no
@@ -91,3 +92,6 @@ help others.
 If your README conforms to the yakia, you can add a badge to link back to this
 specification to help others adopt this readme.
 
+```markdown
+[![Readme file conforming to Yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat.svg)](https://github.com/misitebao/yakia)
+```
