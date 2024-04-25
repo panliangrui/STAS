@@ -35,3 +35,59 @@ Siamese graph encoder-based image analysis to predict STAS from histopathology i
   </strong>
   </div>
 </div>
+
+## Table of Contents
+
+<details>
+  <summary>Click me to Open/Close the directory listing</summary>
+
+- [Table of Contents](#table-of-contents)
+- [Introductions](#introductions)
+  - [Official Website](#official-website)
+  - [Background](#background)
+- [Graphic Demo](#graphic-demo)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Getting Started](#getting-started)
+- [Maintainer](#maintainer)
+- [Contributors](#contributors)
+- [Community Exchange](#community-exchange)
+- [Part Of Users](#part-of-users)
+- [Changelog](#changelog)
+- [Donators](#donators)
+- [Sponsors](#sponsors)
+- [Special Thanks](#special-thanks)
+- [License](#license)
+
+</details>
+
+## Introductions
+
+This project is a Github sample warehouse template, the main content is the
+sample template of README file.
+
+### Official Website
+
+[Website Link](https://yakia.misitebao.com)
+
+### Background
+
+When searching for the required tools and libraries in the open source
+community, I found that there are many excellent code libraries, but there is no
+good README file or tutorial, which causes users to spend extra time to learn
+how to use it, so this project provides A standard code base template, hoping to
+help others.
+
+## Features
+
+- The project logo and corresponding data are displayed in the center
+- Provide multi-language functions and sample templates
+- README must-have instructions
+- Built-in directory navigation function to solve the problem that some Markdown
+  parsing engines cannot parse navigation correctly
+
+## Getting Started
+
+If your README conforms to the yakia, you can add a badge to link back to this
+specification to help others adopt this readme.
+
