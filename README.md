@@ -85,11 +85,18 @@ python construct_graph1.py
   
 ## Test Models
 
-- The project logo and corresponding data are displayed in the center
-- Provide multi-language functions and sample templates
+- Best model for five-fold cross validation
+  ```markdown
+  链接：https://pan.baidu.com/s/11dxmND9ZhEA-o-Hnql6_rg?pwd=l6gh 提取码：l6gh
+  ```
+- Best model finally tested
+  ```markdown
+  链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
+  ```
 - README must-have instructions
-- Built-in directory navigation function to solve the problem that some Markdown
-  parsing engines cannot parse navigation correctly
+  ```markdown
+  python test_stas.py
+  ```
 
 ## Datastes
 
