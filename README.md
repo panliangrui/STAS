@@ -58,7 +58,7 @@
 
 Use the pre-trained model for feature preprocessing and build the spatial topology of WSI.
 
-### Feature Preprocessing
+### Feature Extraction
 
 Features extracted based on KimiaNet and CTransPath.
 ```markdown
