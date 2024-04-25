@@ -43,21 +43,13 @@
   <summary>Click me to Open/Close the directory listing</summary>
 
 - [Table of Contents](#table-of-contents)
-- [Feature Preprocessing](#Feature Preprocessing)
-  - [Feature Extraction](#Feature Extraction)
-  - [Graph Construction](#Graph Construction)
-- [Graphic Demo](#graphic-demo)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-- [Maintainer](#maintainer)
-- [Contributors](#contributors)
-- [Community Exchange](#community-exchange)
-- [Part Of Users](#part-of-users)
-- [Changelog](#changelog)
-- [Donators](#donators)
-- [Sponsors](#sponsors)
-- [Special Thanks](#special-thanks)
+- [Feature Preprocessing](#Feature-Preprocessing)
+  - [Feature Extraction](#Feature-Extraction)
+  - [Graph Construction](#Graph-Construction)
+- [Train Models](#Train-models)
+- [Test Models](#Test-Models)
+- [Datastes](#Datastes)
+- [Website](#Website)
 - [License](#license)
 
 </details>
@@ -78,13 +70,20 @@ python new_cut7-1.py
 
 ### Graph Construction
 
-When searching for the required tools and libraries in the open source
-community, I found that there are many excellent code libraries, but there is no
-good README file or tutorial, which causes users to spend extra time to learn
-how to use it, so this project provides A standard code base template, hoping to
-help others.
+Use KNN (K=9) to construct the spatial topology map.
+```markdown
+python construct_graph1.py
+```
 
-## Features
+## Train Models
+
+- The project logo and corresponding data are displayed in the center
+- Provide multi-language functions and sample templates
+- README must-have instructions
+- Built-in directory navigation function to solve the problem that some Markdown
+  parsing engines cannot parse navigation correctly
+  
+## Test Models
 
 - The project logo and corresponding data are displayed in the center
 - Provide multi-language functions and sample templates
@@ -92,11 +91,17 @@ help others.
 - Built-in directory navigation function to solve the problem that some Markdown
   parsing engines cannot parse navigation correctly
 
-## Getting Started
+## Datastes
 
 If your README conforms to the yakia, you can add a badge to link back to this
 specification to help others adopt this readme.
 
-```markdown
-[![Readme file conforming to Yakia](https://cdn.jsdelivr.net/gh/misitebao/yakia/assets/badge_flat.svg)](https://github.com/misitebao/yakia)
-```
+## Website
+
+If your README conforms to the yakia, you can add a badge to link back to this
+specification to help others adopt this readme.
+
+## License
+
+If your README conforms to the yakia, you can add a badge to link back to this
+specification to help others adopt this readme.
