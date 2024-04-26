@@ -101,7 +101,8 @@ train_feature1.py
 
 - 由于数据具有隐私保护协议，仅提供组织病理学图像数据的特征。
 ```markdown
-  链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
+  链接：https://pan.baidu.com/s/1FqZgjGP1sMY8ZY0o3M_77g?pwd=1c84 提取码：1c84 
+
 ```
 - 我们提供 STAS 患者的临床数据，包括患者年龄、性别、分期和蛋白水平表达数据。
 请发邮件联系通讯作者或者第一作者。
