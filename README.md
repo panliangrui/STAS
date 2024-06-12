@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="(https://github.com/panliangrui/STAS/blob/main/SHIYITU.jpg)">
-    <img src="https://github.com/panliangrui/STAS/blob/main/SHIYITU.jpg" width="600" height="600" />
+    <img src="https://github.com/panliangrui/STAS/blob/main/SHIYITU.jpg" width="600" height="400" />
   </a>
 
   <h1>STAS(micropapillary, solid nests, single cells)</h1>
