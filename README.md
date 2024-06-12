@@ -35,7 +35,7 @@
   </div>
 </div>
 
-# Feature-interactive Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer
+# Feature-interactive Siamese graph encoder for predicting STAS in lung cancer histopathology images
 
 ## Table of Contents
 
