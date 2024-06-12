@@ -1,8 +1,8 @@
 
 
 <div align="center">
-  <a href="(https://github.com/panliangrui/STAS/blob/main/STAS%20prediction.png)">
-    <img src="https://github.com/panliangrui/STAS/blob/main/STAS%20prediction.png" width="600" height="200" />
+  <a href="(https://github.com/panliangrui/STAS/blob/main/SHIYITU.jpg)">
+    <img src="https://github.com/panliangrui/STAS/blob/main/SHIYITU.jpg" width="600" height="200" />
   </a>
 
   <h1>STAS(micropapillary, solid nests, single cells)</h1>
@@ -35,7 +35,7 @@
   </div>
 </div>
 
-# Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer
+# Feature-interactive Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer
 
 ## Table of Contents
 
