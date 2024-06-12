@@ -107,7 +107,11 @@ Please contact the corresponding author or first author by email.
 ## Website
 
 We welcome you to visit our STAS test platform at http://plr.20210706.xyz:5000/.
-
+Clear all before use
+```markdown
+1.Upload the pathology image of .svs file.
+2.Click Submit to get the prediction results.
+```
 ## License
 
 [License MIT](../LICENSE)
