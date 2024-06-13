@@ -36,7 +36,7 @@
   </div>
 </div>
 
-# 基于孪生图编码器的图像分析从肺癌组织病理学图像中预测 STAS
+# 用于预测肺癌组织病理学图像中 STAS 的特征交互式孪生图编码器
 
 ## 目录
 
@@ -101,7 +101,8 @@ train_feature1.py
 
 - 由于数据具有隐私保护协议，仅提供组织病理学图像数据的特征。
 ```markdown
-  链接：https://pan.baidu.com/s/1FqZgjGP1sMY8ZY0o3M_77g?pwd=1c84 提取码：1c84 
+  链接：https://pan.baidu.com/s/1pJY1Cv9d-ML7jU09RnGOjg?pwd=rzj7 提取码：rzj7 
+
 
 ```
 - 我们提供 STAS 患者的临床数据，包括患者年龄、性别、分期和蛋白水平表达数据。
@@ -109,6 +110,11 @@ train_feature1.py
 ## 网站
 
 欢迎您访问我们的STAS测试平台：http://plr.20210706.xyz:5000/。
+```markdown
+使用前先清除所有
+1.上传.svs文件的病理学图像。
+2.点击提交，获得预测结果.
+```
 
 ## 版权
 
