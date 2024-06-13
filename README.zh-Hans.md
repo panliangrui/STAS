@@ -117,5 +117,6 @@ train_feature1.py
 ```
 
 ## 版权
+代码将在论文接收后更新！！
 
 [License MIT](../LICENSE)
