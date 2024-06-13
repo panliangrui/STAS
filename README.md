@@ -85,11 +85,11 @@ train_feature1.py
 
 - Best model for five-fold cross validation
   ```markdown
-  链接：https://pan.baidu.com/s/11dxmND9ZhEA-o-Hnql6_rg?pwd=l6gh 提取码：l6gh
+  link：https://pan.baidu.com/s/11dxmND9ZhEA-o-Hnql6_rg?pwd=l6gh 
   ```
 - Best model finally tested
   ```markdown
-  链接：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i 提取码：516i 
+  link：https://pan.baidu.com/s/1lT8x_ovemj3FXvfjTRjxmA?pwd=516i  
   ```
 - Test the model to obtain predictions.
   ```markdown
@@ -100,7 +100,8 @@ train_feature1.py
 
 - Only features of the histopathology image data are provided as the data has a privacy protection agreement.
 ```markdown
-  链接：https://pan.baidu.com/s/1FqZgjGP1sMY8ZY0o3M_77g?pwd=1c84 提取码：1c84 
+  link：https://pan.baidu.com/s/1pJY1Cv9d-ML7jU09RnGOjg?pwd=rzj7  
+
 ```
 - We provide clinical data on STAS patients, including patient age, gender, stage and protein level expression data.
 Please contact the corresponding author or first author by email.
